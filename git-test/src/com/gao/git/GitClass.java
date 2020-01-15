@@ -11,7 +11,7 @@ public class GitClass {
         System.out.println("你好我的世界:");
         System.out.println("你好我的世界:");
         System.out.println("你好我的世界:");
-        //哈哈哈哈哈
+        //哈哈哈哈哈  hello
 
     }
     public void test(){
