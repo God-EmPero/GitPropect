@@ -12,4 +12,9 @@ public class GitClass {
         System.out.println("你好我的世界:");
         System.out.println("你好我的世界:");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+
+    }
 }
