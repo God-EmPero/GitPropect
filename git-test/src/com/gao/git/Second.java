@@ -7,5 +7,7 @@
 package com.gao.git;
 
 public class Second {
+    public void test(){
 
+    }
 }
